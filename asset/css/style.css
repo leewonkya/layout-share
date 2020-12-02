@@ -87,6 +87,9 @@ ol, ul {
 html, body {
   overflow-x: hidden;
   min-height: 100vh;
+}
+
+.bg {
   background: #eef0f8;
 }
 
